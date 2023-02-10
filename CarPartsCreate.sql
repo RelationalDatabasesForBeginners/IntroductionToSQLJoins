@@ -1,3 +1,6 @@
+-- Script for YouTube Video "Introduction to SQL Joins": https://youtu.be/Mkhf0pPxefQ
+-- YouTube Channel:https://www.youtube.com/@DatabasesAndSQLForBeginners
+--
 -- Create Customer Table
 DROP TABLE IF EXISTS public."Order";
 DROP TABLE IF EXISTS public."Part";
